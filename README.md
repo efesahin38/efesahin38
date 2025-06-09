@@ -1,4 +1,4 @@
-![MasterHead](https://www.umweltbundesamt.de/sites/default/files/medien/376/bilder/software_apps_andsus_adobestock_256229414.jpeg)
+![MasterHead](https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg)
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Software Engineer</h3>
 
