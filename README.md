@@ -1,4 +1,4 @@
-![MasterHead](https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg)
+![MasterHead](https://s39569.pcdn.co/wp-content/uploads/2023/03/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpeg)
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Software Engineer</h3>
 
